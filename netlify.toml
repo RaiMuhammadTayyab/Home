@@ -2,4 +2,4 @@
 command="npm run build"
 functions="functions"
 publish="public"
- package = "@netlify/plugin-functions-install-core"
+
