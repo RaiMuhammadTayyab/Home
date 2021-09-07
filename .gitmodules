@@ -1,0 +1,3 @@
+[submodule "Home"] 
+  path = Home
+  url = git://url-of-source/
