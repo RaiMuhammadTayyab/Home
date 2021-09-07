@@ -49,8 +49,8 @@ q.Map(
   }})
 }
     
-catch(error){
-  console.log(error)
+catch(err){
+  console.log(err)
 
 }
    },
@@ -71,8 +71,8 @@ q.Match(
  Link:result.data.Link
 }
   }
-catch(error){
-console.log(error)
+catch(err){
+console.log(err)
 
 }
 
